@@ -1,0 +1,21 @@
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\bin\Debug\DemoCalc.exe.config
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\bin\Debug\DemoCalc.exe
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\bin\Debug\DemoCalc.pdb
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.csprojAssemblyReference.cache
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.EquaSol.resources
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.Form1.resources
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.Properties.Resources.resources
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.csproj.GenerateResource.cache
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.csproj.CoreCompileInputs.cache
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.exe
+E:\học tập\Trực Quan\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.pdb
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\bin\Debug\DemoCalc.exe.config
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.exe
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.pdb
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\bin\Debug\DemoCalc.exe
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\bin\Debug\DemoCalc.pdb
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.EquaSol.resources
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.Form1.resources
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.Properties.Resources.resources
+C:\Users\DELL\Desktop\calculator\calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.csproj.GenerateResource.Cache
