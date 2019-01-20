@@ -56,6 +56,6 @@ o	Chức năng chưa đầy đủ, vì phần mềm hướng đến tính phổ 
 
 **TÀI LIỆU THAM KHẢO:**
 - File word báo cáo (.docx): Đính kèm.
-- File set up (MSI, EXE): Đính kèm.
+- File set up (.MSI, .EXE): Đính kèm.
 - Source code: Đính kèm.
 - Video demo: Link Youtube: [Click](https://youtu.be/drkbkpnQCtk)
