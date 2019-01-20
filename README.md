@@ -40,19 +40,19 @@ Mô tả thành phần giao diện: Bao gồm 3 khung TextBox cho phép người
 
 **TỔNG KẾT**
 
-*Kết quả đạt được:*
+Kết quả đạt được:
 -	Hoàn thành những chức năng cơ bản và đầy đủ của một phần mềm tính toán calculator cơ bản. 
 -	Tìm hiểu, biết thêm được các thuật toán mới ứng dụng vào việc xây dựng ứng dụng tính toán.
 -	Ứng dụng thân thiện, dễ sử dụng, đáp ứng được nhu cầu người dùng về tính hiệu quả, dễ học, dễ thao tác.
 
-*Nhận xét, đánh giá:*
+Nhận xét, đánh giá:
 Ưu điểm:
-o	Phần mềm đơn giản, dễ dử dụng, thích hợp cho nhu cầu tính toán cơ bản và không quá phức tạp.
-o	Có chức năng cho phép người dùng lưu thông tin đăng ký tài khoản.
-o	Dễ dàng phát triển các tính năng nếu có nhu cầu sau này.
+-	Phần mềm đơn giản, dễ dử dụng, thích hợp cho nhu cầu tính toán cơ bản và không quá phức tạp.
+-	Có chức năng cho phép người dùng lưu thông tin đăng ký tài khoản.
+-	Dễ dàng phát triển các tính năng nếu có nhu cầu sau này.
 
 Khuyết điểm:
-o	Chức năng chưa đầy đủ, vì phần mềm hướng đến tính phổ cập, dễ dử dụng, rộng rãi nên không có quá nhiều chức năng để lựa chọn.
+-	Chức năng chưa đầy đủ, vì phần mềm hướng đến tính phổ cập, dễ dử dụng, rộng rãi nên không có quá nhiều chức năng để lựa chọn.
 
 **TÀI LIỆU THAM KHẢO:**
 - File word báo cáo (.docx): Đính kèm.
