@@ -39,11 +39,11 @@ Mô tả thành phần giao diện: Bao gồm 2 khung TextBox cho phép người
 Mô tả thành phần giao diện: Bao gồm 3 khung TextBox cho phép người dùng nhập 3 tham số và 1 button cho phép hiển thị kết quả sau khi tính toán. Ở đây cho phép nhập 3 tham số a, b và c của phương trình bậc 2.
 
 **TỔNG KẾT**
-*Kết quả đạt được:
+*Kết quả đạt được:*
 -	Hoàn thành những chức năng cơ bản và đầy đủ của một phần mềm tính toán calculator cơ bản. 
 -	Tìm hiểu, biết thêm được các thuật toán mới ứng dụng vào việc xây dựng ứng dụng tính toán.
 -	Ứng dụng thân thiện, dễ sử dụng, đáp ứng được nhu cầu người dùng về tính hiệu quả, dễ học, dễ thao tác.
-*Nhận xét, đánh giá:
+*Nhận xét, đánh giá:*
 -	Ưu điểm:
 o	Phần mềm đơn giản, dễ dử dụng, thích hợp cho nhu cầu tính toán cơ bản và không quá phức tạp.
 o	Có chức năng cho phép người dùng lưu thông tin đăng ký tài khoản.
@@ -56,4 +56,4 @@ o	Chức năng chưa đầy đủ, vì phần mềm hướng đến tính phổ 
 - File word báo cáo (.docx): Đính kèm.
 - File set up (MSI, EXE): Đính kèm.
 - Source code: Đính kèm.
-- Video demo: Link Youtube: [Click](https://github.com)
+- Video demo: Link Youtube: [Click](https://youtu.be/drkbkpnQCtk)
